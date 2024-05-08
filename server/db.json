@@ -1,0 +1,82 @@
+{
+  "beers": [
+    {
+      "id": 1,
+      "image_url": "https://images.punkapi.com/v2/keg.png",
+      "name": "Buzz",
+      "tagline": "A Real Bitter Experience.",
+      "first_brewed": "09/2007",
+      "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
+      "attenuation_level": 75,
+      "brewers_tips": "The earthy and floral aromas from the hops can be overpowering. Drop a little Cascade in at the end of the boil to lift the profile with a bit of citrus.",
+      "contributed_by": "Sam Mason <samjbmason>"
+    },
+    {
+      "image_url": "https://images.punkapi.com/v2/2.png",
+      "name": "la dos de gerrrr",
+      "tagline": "You Know You Shouldn't",
+      "first_brewed": "04/2008",
+      "description": "A titillating, neurotic, peroxide punk of a Pale Ale. Combining attitude, style, substance, and a little bit of low self esteem for good measure; what would your mother say? The seductive lure of the sassy passion fruit hop proves too much to resist. All that is even before we get onto the fact that there are no additives, preservatives, pasteurization or strings attached. All wrapped up with the customary BrewDog bite and imaginative twist.",
+      "attenuation_level": 76,
+      "brewers_tips": "Be careful not to collect too much wort from the mash. Once the sugars are all washed out there are some very unpleasant grainy tasting compounds that can be extracted into the wort.",
+      "contributed_by": "Sam Mason <samjbmason>",
+      "id": 2
+    },
+    {
+      "image_url": "https://images.punkapi.com/v2/2.png",
+      "name": "GERMANNNNNN",
+      "tagline": "You Know You Shouldn't",
+      "first_brewed": "04/2008",
+      "description": "A titillating, neurotic, peroxide punk of a Pale Ale. Combining attitude, style, substance, and a little bit of low self esteem for good measure; what would your mother say? The seductive lure of the sassy passion fruit hop proves too much to resist. All that is even before we get onto the fact that there are no additives, preservatives, pasteurization or strings attached. All wrapped up with the customary BrewDog bite and imaginative twist.",
+      "attenuation_level": 76,
+      "brewers_tips": "Be careful not to collect too much wort from the mash. Once the sugars are all washed out there are some very unpleasant grainy tasting compounds that can be extracted into the wort.",
+      "contributed_by": "Sam Mason <samjbmason>",
+      "id": 3
+    },
+    {
+      "name": "no arriessssgo",
+      "tagline": "nada jamas ",
+      "description": ".ku lig ñihg ñiuh piouñh",
+      "imageUrl": "https://images.punkapi.com/v2/2.png",
+      "firstBrewed": "10/2022",
+      "brewersTips": "souhs liusoilu sñiuh s",
+      "attenuationLevel": "99",
+      "contributedBy": "ger",
+      "id": 4
+    },
+    {
+      "image_url": "https://images.punkapi.com/v2/2.png",
+      "name": "la dos de gerrrr",
+      "tagline": "You Know You Shouldn't",
+      "first_brewed": "04/2008",
+      "description": "A titillating, neurotic, peroxide punk of a Pale Ale. Combining attitude, style, substance, and a little bit of low self esteem for good measure; what would your mother say? The seductive lure of the sassy passion fruit hop proves too much to resist. All that is even before we get onto the fact that there are no additives, preservatives, pasteurization or strings attached. All wrapped up with the customary BrewDog bite and imaginative twist.",
+      "attenuation_level": 76,
+      "brewers_tips": "Be careful not to collect too much wort from the mash. Once the sugars are all washed out there are some very unpleasant grainy tasting compounds that can be extracted into the wort.",
+      "contributed_by": "Sam Mason <samjbmason>",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "text": "No me ha gustado nada",
+      "recommends": false,
+      "rating": 1,
+      "beerId": 1
+    },
+    {
+      "id": 2,
+      "text": "Riquisima",
+      "recommends": true,
+      "rating": 4,
+      "beerId": 1
+    },
+    {
+      "id": 3,
+      "text": "Puajjj",
+      "recommends": false,
+      "rating": 2,
+      "beerId": 2
+    }
+  ]
+}
